@@ -15,22 +15,22 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Assalomu+Alaykum!+👋;+I'm+Sardor+Safaraliyev!;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Assalomu+Alaykum!+👋;+I'm+Zafar+Khatamov!;" />
   <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=itm10.itm10" alt="visitor badge">
 </h1>
 <p align='center'>
 I like to build things 💻.
 </p>
 <div align=center>
-  <img width=390 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=SardorPyDew&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
-  <img width=390 src="https://github-readme-stats-salesp07.vercel.app/api?username=SardorPyDew&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
+  <img width=390 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=zafarkh1&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
+  <img width=390 src="https://github-readme-stats-salesp07.vercel.app/api?username=zafarkh1&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
   <br/>
-  <img width=325 align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=SardorPyDew&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
+  <img width=325 align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=zafarkh1&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
 </div>
 
-# Hi there! 👋 I'm Sardor
+# Hi there! 👋 I'm Zafar
 
-I am a passionate Python Backend Developer with strong discipline. I enjoy working with different technologies to create effective and innovative solutions. Here is a picture of my skill:
+I am a passionate Frontend Developer with strong discipline. I enjoy working with different technologies to create effective and innovative solutions. Here is a picture of my skill:
 
 
 ## Stack I'm working with 💼
