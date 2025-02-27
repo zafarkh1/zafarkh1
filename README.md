@@ -90,7 +90,4 @@ I am a passionate Frontend Developer with strong discipline. I enjoy working wit
   </a>
 </div>
 
-Feel free to explore my repositories to see some of my projects and contributions. If you have any questions or collaboration ideas, feel free to reach out! 😊
-
-
-![Snake animation](https://github.com/mirsaid-mirzohidov/mirsaid-mirzohidov/blob/output/github-contribution-grid-snake.svg)
+Feel free to explore my repositories to see some of my projects and contributions. If you have any questions or collaboration ideas, feel free to reach out! 
