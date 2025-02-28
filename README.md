@@ -44,7 +44,7 @@ I am a passionate Frontend Developer with strong discipline. I enjoy working wit
 
 ![NextJs](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![ReactJs](https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&style=for-the-badge) 
-![TailwindCss](https://img.shields.io/badge/tailwindcss-0F172A?&logo=tailwindcss)
+![TailwindCss](https://img.shields.io/badge/-tailwindcss-61DAFB?logo=tailwindcss&logoColor=white&style=for-the-badge)
 
 
 - 💾 Databases:
